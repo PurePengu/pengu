@@ -1,2 +1,2 @@
 # pengu.github.iomnnredgassev
-<a href="https://www.google.com/" target="_blank">Google</a>
+[this is a test](https://www.google.com/)
